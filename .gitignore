@@ -2,3 +2,8 @@
 .*
 !.htaccess
 !.gitignore
+
+.DS_Store
+*.komodoproject
+*.db
+
