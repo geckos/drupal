@@ -1,0 +1,4 @@
+/sites
+.*
+!.htaccess
+!.gitignore
