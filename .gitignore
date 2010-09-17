@@ -1,4 +1,5 @@
 /sites
+/nbproject
 .*
 !.htaccess
 !.gitignore
